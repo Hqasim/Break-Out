@@ -2,7 +2,7 @@
 
 This game application is inspired by the famous Breakout Arcade video game, developed and published by Atari, Inc., and released in 1976. Game is developed using Java programming language with Swing library.
 
-![Break-Out](https://raw.githubusercontent.com/Hqasim/Break-Out/master/.idea/GameScreenShot.PNG?raw=true "Game Screen Shot")
+![Break-Out](https://raw.githubusercontent.com/Hqasim/Break-Out/master/.idea/GameScreenShot2.0.PNG?raw=true "Game Screen Shot")
 
 ## Requirements:
 1. Install JDK for you Operating System
