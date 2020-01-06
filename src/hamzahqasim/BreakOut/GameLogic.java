@@ -234,8 +234,8 @@ public class GameLogic extends JPanel implements KeyListener, ActionListener {
                 ballXdir = ballVelocity * Math.cos(Math.toRadians(70));
                 ballYdir = -ballVelocity * Math.sin(Math.toRadians(70));
             }
-        } else {
-            ballXdir = 0;
+        } else { // Simple reflection rebound
+            ballXdir = -ballXdir;
             ballYdir = -ballYdir;
         }
     }
