@@ -24,8 +24,12 @@ Java Swing and AWT library
 
 ## Versioning
 
-Version 1.0
+Version 2.0:
 
+- Added New Brick Colors
+- Added different rebound angles of ball when it collides with paddle
+- Added Starting game text
+- Fixed new game issues
 ## Authors
 
 * **Hamzah Qasim**
