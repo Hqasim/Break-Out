@@ -1,0 +1,12 @@
+# Build output
+out/
+*.class
+*.jar
+
+# JetBrains IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -26,8 +26,9 @@ class GameApp {
         gameWindow.setBounds(gameWindowX ,gameWindowY, gameWindowWidth + 16, gameWindowHeight+ 39);
         gameWindow.setResizable(false); // Fixed window size
         gameWindow.setTitle("BREAK OUT");
-        gameWindow.setVisible(true);
         gameWindow.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         gameWindow.add(gameLogic);
+        gameWindow.setVisible(true);
+        gameLogic.requestFocusInWindow(); // Panel must hold keyboard focus to receive Enter/arrow key events
     }
 }
