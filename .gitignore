@@ -1,7 +1,6 @@
 # Build output
-out/
+target/
 *.class
-*.jar
 
 # JetBrains IDE files
 .idea/
